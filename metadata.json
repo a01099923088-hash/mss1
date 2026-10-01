@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix 내몸사랑",
+  "description": "시니어 \u0026 장애인 맞춤 헬스케어",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
